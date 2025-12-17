@@ -29,17 +29,6 @@ IntelliJ IDEA
 
 Git & GitHub
 
-Project Structure
-src/
- └── edu/iu/c212
-     ├── models
-     │   ├── Item.java
-     │   └── Staff.java
-     ├── programs
-     │   ├── SawPrimePlanks.java
-     │   └── StaffScheduler.java
-     └── utils
-         └── FileUtils.java
 What I Learned
 
 Designing and organizing Java projects using packages
